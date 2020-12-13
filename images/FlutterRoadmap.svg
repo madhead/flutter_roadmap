@@ -39,13 +39,14 @@
      inkscape:window-height="999"
      id="namedview1402"
      showgrid="false"
-     inkscape:zoom="2.3073512"
-     inkscape:cx="567.66968"
-     inkscape:cy="353.68924"
+     inkscape:zoom="3.2630874"
+     inkscape:cx="611.85921"
+     inkscape:cy="334.0985"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1400" />
+     inkscape:current-layer="svg1400"
+     inkscape:document-rotation="0" />
   <rect
      width="940"
      height="2957"
@@ -3434,4 +3435,25 @@
          id="feBlend1395" />
     </filter>
   </defs>
+  <rect
+     x="654.98297"
+     y="351.67599"
+     width="100.263"
+     height="36.7799"
+     fill="#FFEE95"
+     id="rect78-3"
+     style="fill:#95c695;fill-opacity:1" />
+  <text
+     fill="#000000"
+     xml:space="preserve"
+     style="white-space:pre"
+     font-family="Roboto"
+     font-size="12.092px"
+     letter-spacing="0em"
+     id="text1557"
+     x="6.276237"
+     y="53.40601"><tspan
+       x="689.48022"
+       y="374.19901"
+       id="tspan1555">Linter</tspan></text>
 </svg>
